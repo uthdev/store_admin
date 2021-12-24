@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "db4free.net",
+  "port": 3306,
+  "username": "uthdev92",
+  "password": "MUPWTU4f-Zr@cS*",
+  "database": "ecommerce_store",
+  "entities": [
+    "src/entity/*.js"
+  ],
+  "logging": false,
+  "synchronize": true
+}
